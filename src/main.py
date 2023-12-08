@@ -1,7 +1,4 @@
-import locale
 from tkinter import *
-import os
-from time import strftime
 from datetime import datetime
 
 
